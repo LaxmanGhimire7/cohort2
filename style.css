@@ -93,20 +93,65 @@ body {
 .skills{
     background-color: wheat;
     text-align: center;
-    margin-top: 30px;
     padding: 50px;
+    width: 85%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;    
 }
 
 .skills-1{
-    width: 70%;
     background-color: #fff;
     /* border: 2px solid black; */
     padding: 15px;
-    width: 70%;
     margin: auto;
     border-radius: 10px;
     margin-top: 10px;
+    width: 50%;
 }
 
+.projects{
+    background-color:rgb(213, 212, 245);
+    padding: 50px;
+    width: 85%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
 
+.project_paragraphs{
+    background-color: #fff;
+    padding: 15px;
+    width: 60%;
+    margin: auto;
+        margin-top: 10px;
+    border-radius: 10px;
+}
+
+.contact{
+    background-color: rgb(216, 248, 237);
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    width: 85%;
+    border-radius: 10px;
+}
+
+.contact_paragraphs{
+    width: 50%;
+    background-color: #fff;
+    padding: 15px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(2, 2, 66);
+    color: white;
+    padding: 15px;
+}
 
