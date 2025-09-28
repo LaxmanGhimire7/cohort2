@@ -13,12 +13,33 @@
 html,body{
     height: 100%;
     width: 100%;
+    background-color: ghostwhite;
 }
 
-h1{
-    font-size: 30px;
-    padding: 20px;
+.head{
+    padding-top: 60px;
     text-align: center;
-    font-family: horror;
-    color: red;
+    background-color: rgb(22, 35, 46);
+    color: white;
+    height: 250px;
+}
+
+#name{
+    font-weight: bold;
+    font-size: 60px;
+}
+#paragraph{
+    font-style: oblique;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.about{
+    text-align: center;
+    padding: 80px;
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
 }
